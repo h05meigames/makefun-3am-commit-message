@@ -8,9 +8,9 @@ Entry for the [make.fun bounty "The 3AM Commit Message"](https://make.fun/bounty
 
 ## The entry
 
-> fix: it works now. I don't know why. Do not ask. Do not touch it. Merging before it changes its mind
+> fix: it works now. I changed nothing. I don't know why. Do not ask. Do not touch it. Merging before it changes its mind
 
-**100 characters** (limit: 139).
+**119 characters** (limit: 139).
 
 ## How it works
 
